@@ -46,12 +46,24 @@
         <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGt72dvhq4yRA/company-logo_200_200/0?e=1603324800&v=beta&t=nmGLxTFAPJ9wOpKED4xL4Sl4HvMFbByvX-xqz3h1Cio" />
       </td>
       <td>
+        <a href="https://www.coursera.org/account/accomplishments/certificate/K4RKSK6NL9Y9">
+        <strong>AWS DynamoDB: Building NoSQL Database-Driven Applications</strong>
+      </a>
+        <br />
+        Coursera | <i>Jul 2020 - No Expires</i>
+      </td>
+       <td>
+        <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGt72dvhq4yRA/company-logo_200_200/0?e=1603324800&v=beta&t=nmGLxTFAPJ9wOpKED4xL4Sl4HvMFbByvX-xqz3h1Cio" />
+      </td>
+      <td>
         <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/9UESFGDG2WX5">
         <strong>AWS Fundamentals Specialization</strong>
       </a>
         <br />
         Coursera | <i>Jun 2020 - No Expires</i>
       </td>
+    </tr>
+    <tr>
       <td>
         <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C510BAQFg2SqYACylFA/company-logo_200_200/0?e=1603324800&v=beta&t=EO3D1ja3suVIEDGrUwz-_jWb6V54rd751b9cJpmn-jc" />
       </td>
@@ -62,9 +74,7 @@
         <br />
         Linux Academy | <i>Sep 2019 - No Expires</i>
       </td>
-    </tr>
-    <tr>
-      <td>
+       <td>
         <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_100_100/0?e=1603324800&v=beta&t=5Og4WPqy5ZsA5pS4XBHNiv-qVrbbotUvAs2Gp3vwchQ" />
       </td>
       <td>                    
@@ -72,6 +82,8 @@
         <br />
         LinkedIn Learning | <i>Jun 2020 - No Expires</i>
       </td>
+    </tr>
+    <tr>
       <td>
         <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_100_100/0?e=1603324800&v=beta&t=5Og4WPqy5ZsA5pS4XBHNiv-qVrbbotUvAs2Gp3vwchQ" />
       </td>
@@ -80,9 +92,7 @@
         <br />
         LinkedIn Learning | <i>May 2020 - No Expires</i>
       </td>
-    </tr>
-    <tr>
-      <td>
+       <td>
         <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_100_100/0?e=1603324800&v=beta&t=5Og4WPqy5ZsA5pS4XBHNiv-qVrbbotUvAs2Gp3vwchQ" />
       </td>
       <td>                    
@@ -90,6 +100,8 @@
         <br />
         LinkedIn Learning | <i>Aug 2019 - No Expires</i>
       </td>
+    </tr>
+        <tr>
       <td>
         <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQG9_uP8f-kpiw/company-logo_200_200/0?e=1603324800&v=beta&t=52LpU2V1gxNuihfQDvyrnHmVpx7qmqo4HPYIdq4Jvc0" />
       </td>
@@ -97,6 +109,10 @@
         <strong>Scrum Fundamentals Certified (SFC)</strong>
         <br />
         SCRUMstudy | <i>Jul 2016 - No Expires</i>
+      </td>
+      <td>
+      </td>
+      <td>
       </td>
     </tr>
   </tbody>
