@@ -25,23 +25,33 @@
       </td>
       <td>
         <a href="https://www.youracclaim.com/badges/1a433e6a-46b2-439e-9148-60d306c71020/linked_in_profile">
+        <strong>AWS Certified Developer</strong>
+        </a>
+        <br />
+        Amazon Web Services | <i>Aug 2020 - Expires 2023</i>
+      </td>
+      <td>
+        <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGzuSBRRRuphw/company-logo_100_100/0?e=1603324800&v=beta&t=1QNaDvPrOwY-6FkUYZZ9RDFgOxta7p_Q9zTA5Biq-TY" />
+      </td>
+      <td>
+        <a href="https://www.youracclaim.com/badges/5c848b45-36b5-45d8-9c8b-0b6920e45cdb?source=linked_in_profile">
         <strong>AWS Certified Cloud Practioner</strong>
         </a>
         <br />
         Amazon Web Services | <i>Jun 2018 - Expires 2023</i>
       </td>
-      <td>
-        <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C560BAQGSBVNHbqKIdA/company-logo_100_100/0?e=1603324800&v=beta&t=oflWDFa88IC44wOIsemHvP_2u0-wl5fgr_2kxi5xbgg" />
-      </td>
-      <td>
-        <a href="https://graduation.udacity.com/confirm/7JG2LRG7">
-        <strong>React Nanodegree</strong>
-      </a>
-        <br />
-        Udacity | <i>Aug 2019 - No Expires</i>
-      </td>
     </tr>
     <tr>
+        <td>
+            <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C560BAQGSBVNHbqKIdA/company-logo_100_100/0?e=1603324800&v=beta&t=oflWDFa88IC44wOIsemHvP_2u0-wl5fgr_2kxi5xbgg" />
+          </td>
+          <td>
+            <a href="https://graduation.udacity.com/confirm/7JG2LRG7">
+            <strong>React Nanodegree</strong>
+          </a>
+            <br />
+            Udacity | <i>Aug 2019 - No Expires</i>
+          </td>
       <td>
         <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGt72dvhq4yRA/company-logo_200_200/0?e=1603324800&v=beta&t=nmGLxTFAPJ9wOpKED4xL4Sl4HvMFbByvX-xqz3h1Cio" />
       </td>
@@ -52,18 +62,18 @@
         <br />
         Coursera | <i>Jul 2020 - No Expires</i>
       </td>
-       <td>
-        <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGt72dvhq4yRA/company-logo_200_200/0?e=1603324800&v=beta&t=nmGLxTFAPJ9wOpKED4xL4Sl4HvMFbByvX-xqz3h1Cio" />
-      </td>
-      <td>
-        <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/9UESFGDG2WX5">
-        <strong>AWS Fundamentals Specialization</strong>
-      </a>
-        <br />
-        Coursera | <i>Jun 2020 - No Expires</i>
-      </td>
     </tr>
     <tr>
+        <td>
+            <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGt72dvhq4yRA/company-logo_200_200/0?e=1603324800&v=beta&t=nmGLxTFAPJ9wOpKED4xL4Sl4HvMFbByvX-xqz3h1Cio" />
+          </td>
+          <td>
+            <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/9UESFGDG2WX5">
+            <strong>AWS Fundamentals Specialization</strong>
+          </a>
+            <br />
+            Coursera | <i>Jun 2020 - No Expires</i>
+          </td>
       <td>
         <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C510BAQFg2SqYACylFA/company-logo_200_200/0?e=1603324800&v=beta&t=EO3D1ja3suVIEDGrUwz-_jWb6V54rd751b9cJpmn-jc" />
       </td>
@@ -74,16 +84,16 @@
         <br />
         Linux Academy | <i>Sep 2019 - No Expires</i>
       </td>
-       <td>
-        <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_100_100/0?e=1603324800&v=beta&t=5Og4WPqy5ZsA5pS4XBHNiv-qVrbbotUvAs2Gp3vwchQ" />
-      </td>
-      <td>                    
-        <strong>Prepare for the AWS Certified Developer Associate Exam</strong>
-        <br />
-        LinkedIn Learning | <i>Jun 2020 - No Expires</i>
-      </td>
     </tr>
     <tr>
+        <td>
+            <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_100_100/0?e=1603324800&v=beta&t=5Og4WPqy5ZsA5pS4XBHNiv-qVrbbotUvAs2Gp3vwchQ" />
+          </td>
+          <td>                    
+            <strong>Prepare for the AWS Certified Developer Associate Exam</strong>
+            <br />
+            LinkedIn Learning | <i>Jun 2020 - No Expires</i>
+          </td>
       <td>
         <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_100_100/0?e=1603324800&v=beta&t=5Og4WPqy5ZsA5pS4XBHNiv-qVrbbotUvAs2Gp3vwchQ" />
       </td>
@@ -92,27 +102,23 @@
         <br />
         LinkedIn Learning | <i>May 2020 - No Expires</i>
       </td>
-       <td>
-        <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_100_100/0?e=1603324800&v=beta&t=5Og4WPqy5ZsA5pS4XBHNiv-qVrbbotUvAs2Gp3vwchQ" />
-      </td>
-      <td>                    
-        <strong>Prepare for AWS DevOps Engineer (Professional) Certification</strong>
-        <br />
-        LinkedIn Learning | <i>Aug 2019 - No Expires</i>
-      </td>
     </tr>
         <tr>
-      <td>
+            <td>
+                <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_100_100/0?e=1603324800&v=beta&t=5Og4WPqy5ZsA5pS4XBHNiv-qVrbbotUvAs2Gp3vwchQ" />
+              </td>
+              <td>                    
+                <strong>Prepare for AWS DevOps Engineer (Professional) Certification</strong>
+                <br />
+                LinkedIn Learning | <i>Aug 2019 - No Expires</i>
+              </td>
+    <td>
         <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQG9_uP8f-kpiw/company-logo_200_200/0?e=1603324800&v=beta&t=52LpU2V1gxNuihfQDvyrnHmVpx7qmqo4HPYIdq4Jvc0" />
       </td>
       <td>                    
         <strong>Scrum Fundamentals Certified (SFC)</strong>
         <br />
         SCRUMstudy | <i>Jul 2016 - No Expires</i>
-      </td>
-      <td>
-      </td>
-      <td>
       </td>
     </tr>
   </tbody>
