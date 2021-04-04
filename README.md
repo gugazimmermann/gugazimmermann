@@ -87,7 +87,7 @@
     </tr>
     <tr>
         <td>
-            <img width="50px" height="50px" src="https://www.csun.edu/sites/default/files/styles/body_thumb/public/Linkedin-Learning-square-thumb.jpg?itok=0w9GzrJ-" />
+            <img width="50px" height="50px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
           </td>
           <td>                    
             <strong>Prepare for the AWS Certified Developer Associate Exam</strong>
@@ -95,7 +95,7 @@
             LinkedIn Learning | <i>Jun 2020 - No Expires</i>
           </td>
       <td>
-        <img width="50px" height="50px" src="https://www.csun.edu/sites/default/files/styles/body_thumb/public/Linkedin-Learning-square-thumb.jpg?itok=0w9GzrJ-" />
+        <img width="50px" height="50px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
       </td>
       <td>                    
         <strong>Prepare for the Docker Certified Associate (DCA) Certification</strong>
@@ -105,7 +105,7 @@
     </tr>
         <tr>
             <td>
-                <img width="50px" height="50px" src="https://www.csun.edu/sites/default/files/styles/body_thumb/public/Linkedin-Learning-square-thumb.jpg?itok=0w9GzrJ-" />
+                <img width="50px" height="50px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
               </td>
               <td>                    
                 <strong>Prepare for AWS DevOps Engineer (Professional) Certification</strong>
