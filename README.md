@@ -75,7 +75,7 @@
             Coursera | <i>Jun 2020 - No Expires</i>
           </td>
       <td>
-        <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C510BAQFg2SqYACylFA/company-logo_200_200/0?e=1603324800&v=beta&t=EO3D1ja3suVIEDGrUwz-_jWb6V54rd751b9cJpmn-jc" />
+        <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C510BAQFg2SqYACylFA/company-logo_200_200/0/1519908434736?e=1625702400&v=beta&t=w6psLPjhtJ98Ra9YVp5of7SMPGLbC5Qq31ZkHHK7VHM" />
       </td>
       <td>
         <a href="https://linuxacademy.com/profile/u/cert/id/237094"></a>
@@ -87,7 +87,7 @@
     </tr>
     <tr>
         <td>
-            <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_100_100/0?e=1603324800&v=beta&t=5Og4WPqy5ZsA5pS4XBHNiv-qVrbbotUvAs2Gp3vwchQ" />
+            <img width="50px" height="50px" src="https://www.csun.edu/sites/default/files/styles/body_thumb/public/Linkedin-Learning-square-thumb.jpg?itok=0w9GzrJ-" />
           </td>
           <td>                    
             <strong>Prepare for the AWS Certified Developer Associate Exam</strong>
@@ -95,7 +95,7 @@
             LinkedIn Learning | <i>Jun 2020 - No Expires</i>
           </td>
       <td>
-        <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_100_100/0?e=1603324800&v=beta&t=5Og4WPqy5ZsA5pS4XBHNiv-qVrbbotUvAs2Gp3vwchQ" />
+        <img width="50px" height="50px" src="https://www.csun.edu/sites/default/files/styles/body_thumb/public/Linkedin-Learning-square-thumb.jpg?itok=0w9GzrJ-" />
       </td>
       <td>                    
         <strong>Prepare for the Docker Certified Associate (DCA) Certification</strong>
@@ -105,7 +105,7 @@
     </tr>
         <tr>
             <td>
-                <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_100_100/0?e=1603324800&v=beta&t=5Og4WPqy5ZsA5pS4XBHNiv-qVrbbotUvAs2Gp3vwchQ" />
+                <img width="50px" height="50px" src="https://www.csun.edu/sites/default/files/styles/body_thumb/public/Linkedin-Learning-square-thumb.jpg?itok=0w9GzrJ-" />
               </td>
               <td>                    
                 <strong>Prepare for AWS DevOps Engineer (Professional) Certification</strong>
