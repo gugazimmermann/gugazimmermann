@@ -43,7 +43,7 @@
     </tr>
     <tr>
         <td>
-            <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C560BAQGSBVNHbqKIdA/company-logo_100_100/0?e=1603324800&v=beta&t=oflWDFa88IC44wOIsemHvP_2u0-wl5fgr_2kxi5xbgg" />
+            <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C560BAQGSBVNHbqKIdA/company-logo_200_200/0/1593665253127?e=1625702400&v=beta&t=7mq7sSwAf6oIq7AZqJdSSU8SM_xjtvDAuDomMti82gg" />
           </td>
           <td>
             <a href="https://graduation.udacity.com/confirm/7JG2LRG7">
@@ -53,7 +53,7 @@
             Udacity | <i>Aug 2019 - No Expires</i>
           </td>
       <td>
-        <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGt72dvhq4yRA/company-logo_200_200/0?e=1603324800&v=beta&t=nmGLxTFAPJ9wOpKED4xL4Sl4HvMFbByvX-xqz3h1Cio" />
+        <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_200_200/0/1608039227697?e=1625702400&v=beta&t=QirUt_zkHb78ppowm5WNFogCRhzexw-0FvE6cAqZt8s" />
       </td>
       <td>
         <a href="https://www.coursera.org/account/accomplishments/certificate/K4RKSK6NL9Y9">
@@ -65,7 +65,7 @@
     </tr>
     <tr>
         <td>
-            <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGt72dvhq4yRA/company-logo_200_200/0?e=1603324800&v=beta&t=nmGLxTFAPJ9wOpKED4xL4Sl4HvMFbByvX-xqz3h1Cio" />
+            <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_200_200/0/1608039227697?e=1625702400&v=beta&t=QirUt_zkHb78ppowm5WNFogCRhzexw-0FvE6cAqZt8s" />
           </td>
           <td>
             <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/9UESFGDG2WX5">
