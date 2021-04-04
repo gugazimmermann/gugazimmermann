@@ -4,10 +4,10 @@
   <img width="55" height="27" src="https://media.tenor.com/images/67a2c5048c9de7a7722fcc48fc4e7522/tenor.gif"  />
 </h2>
 <p>My name is Guga Zimmermann, I'm a Brazilian developer with more than 20 years working with the Internet.</p>
-<p>Here in my personal Github I just post some tests and personal projects, like Snacks and <a href="https://medium.com/react-single-player-rpg">Single Player RPG</a></p>
+<p>Here in my personal Github I just post some tests, studies and personal projects.</p>
 <p>Find me:
 <a href="https://www.linkedin.com/in/guga-zimmermann/">
-  <img width="25px" height="25px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_100_100/0?e=1603324800&v=beta&t=5Og4WPqy5ZsA5pS4XBHNiv-qVrbbotUvAs2Gp3vwchQ" />
+  <img width="25px" height="25px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <a href="https://medium.com/@gugazimmermann">
   <img width="25px" height="25px" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" />
