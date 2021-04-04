@@ -126,19 +126,45 @@
 <h3>Experience</h3>
   <table>
     <tbody>
-      <tr>
+                  <tr>
         <td>
-          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHOIwBTq44GRA/company-logo_200_200/0?e=1603324800&v=beta&t=dbgZMQbF3mdmjK0u22ACW3s5rBxd3ahosRi1SEdMPlI"/>
+          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHOIwBTq44GRA/company-logo_200_200/0/1519895799826?e=1625702400&v=beta&t=e4wLzQwai880VONDxhThvQeFE3TC9RAH_8hk4AXx0js"/>
         </td>
         <td>
-          <strong>X-Team</strong> | Full Stack Web Developer | <i>Apr 2020 - Present</i> | Remote Work<br />
-          Working in the Frontend (React) and Backend (Node.JS / HAPI
-          API / postgresql) for the internal X-Team system, the XHQ!
+          <strong>Bad Gateway</strong> | Backend Developer | <i>Feb 2021 - Present</i> | Remote Work / Ontario, Canada<br />
+Refactoring code, AWS Lambda (serverless), social media APIs, GCP, Google Sheets, BigTable and BiqQuery at Underknown (#1 science video publisher on social media), a Bad Gateway client.
+        </td>
+      </tr>
+            <tr>
+        <td>
+          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHOIwBTq44GRA/company-logo_200_200/0/1519895799826?e=1625702400&v=beta&t=e4wLzQwai880VONDxhThvQeFE3TC9RAH_8hk4AXx0js"/>
+        </td>
+        <td>
+          <strong>X-Team</strong> | Full Stack Web Developer | <i>Set 2020 - Jan 2021</i> | Remote Work / Santa Monica, CA, USA<br />
+          Refactor of the SSO login / account creation flow for Acquisitions & Insights team at Zwift, a X-Team client.
+        </td>
+      </tr>
+            <tr>
+        <td>
+          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHOIwBTq44GRA/company-logo_200_200/0/1519895799826?e=1625702400&v=beta&t=e4wLzQwai880VONDxhThvQeFE3TC9RAH_8hk4AXx0js"/>
+        </td>
+        <td>
+          <strong>Cloud Devs</strong> | Full Stack Web Developer | <i>Aug 2020 - Oct 2020</i> | Remote Work / Amsterdam, Netherlands<br />
+          App development using React Native and GCP for Growth Tribe Academy, a Cloud Devs client.
         </td>
       </tr>
       <tr>
         <td>
-          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C510BAQEa9doEL6_IHw/company-logo_200_200/0?e=1603324800&v=beta&t=yYQyTREiNlMn7_ar6PZdSqQ3S8WRTSGJY9D_oTzM0KA" />
+          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHOIwBTq44GRA/company-logo_200_200/0/1519895799826?e=1625702400&v=beta&t=e4wLzQwai880VONDxhThvQeFE3TC9RAH_8hk4AXx0js"/>
+        </td>
+        <td>
+          <strong>X-Team</strong> | Full Stack Web Developer | <i>Apr 2020 - Aug 2020</i> | Remote Work<br />
+          Working in the Frontend (React) and Backend (Node.JS / HAPI API / postgresql) for the internal X-Team system, the XHQ!
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C510BAQEa9doEL6_IHw/company-logo_200_200/0/1549255263376?e=1625702400&v=beta&t=vJk86qgqXPVs4meDeUrkNAXcLY7S7vNmLUY--SlFhIM" />
         </td>
         <td>
           <strong>Fysight</strong> | Full Stack Web Developer | <i>May 2020 - Jun 2020</i> | Remote Work / Auckland, New Zealand<br />
@@ -148,17 +174,16 @@
       </tr>
       <tr>
         <td>
-          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHOIwBTq44GRA/company-logo_200_200/0?e=1603324800&v=beta&t=dbgZMQbF3mdmjK0u22ACW3s5rBxd3ahosRi1SEdMPlI" />
+          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHOIwBTq44GRA/company-logo_200_200/0/1519895799826?e=1625702400&v=beta&t=e4wLzQwai880VONDxhThvQeFE3TC9RAH_8hk4AXx0js" />
         </td>
         <td>
           <strong>X-Team</strong> | Full Stack Web Developer | <i>Feb 2020 - Apr 2020</i> | Remote Work / Santa Monica, CA, USA<br />
-          Development of Frontend and Backend for the Performance
-          Verification project at Zwift.
+          Development of Frontend and Backend for the Performance Verification project at Zwift.
         </td>
       </tr>
       <tr>
         <td>
-          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHOIwBTq44GRA/company-logo_200_200/0?e=1603324800&v=beta&t=dbgZMQbF3mdmjK0u22ACW3s5rBxd3ahosRi1SEdMPlI" />
+          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHOIwBTq44GRA/company-logo_200_200/0/1519895799826?e=1625702400&v=beta&t=e4wLzQwai880VONDxhThvQeFE3TC9RAH_8hk4AXx0js" />
         </td>
         <td>
           <strong>X-Team</strong> | DevOps Engineer | <i>Jul 2019 - Feb 2020</i> | Remote Work / Santa Monica, CA, USA<br />
@@ -168,7 +193,7 @@
       </tr>
       <tr>
         <td>
-          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C560BAQF_dC8Rh8H4pg/company-logo_200_200/0?e=1603324800&v=beta&t=Kf-RrfBVOmvwovpjCYWT8poaPsj2oBQczi_7IVGilQs" />
+          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C560BAQHuLB0G5FYVWA/company-logo_200_200/0/1601495698851?e=1625702400&v=beta&t=VKIUjiFbQaGOthXydBQTjn2K7f0_AnUFBXuazOnwsSs" />
         </td>
         <td>
           <strong>Fingermark Global</strong> | Software Developer | <i>Mar 2017 - Jul 2019</i> | Remote Work / Havelock North, New Zealand<br />
@@ -178,7 +203,7 @@
       </tr>
       <tr>
         <td>
-          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C510BAQHZ7q3Z1O6VgA/company-logo_100_100/0?e=1603324800&v=beta&t=dRxB8u0l29m61K5pg4Xfx-6btsbfzj1-JiFU4_2nK8M" />
+          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C510BAQHZ7q3Z1O6VgA/company-logo_200_200/0/1519903946678?e=1625702400&v=beta&t=z7os9bMN8tX5LcuEjl9xtE8DvjmWt_MwWmEIPEcbFYI" />
         </td>
         <td>
           <strong>allPREF Sistemas</strong> | Software Developer | <i>Jul 2012 - Mar 2018</i> | Itajaí / Santa Catarina / Brazil<br />
@@ -188,7 +213,7 @@
       </tr>
       <tr>
         <td>
-          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQH3nUDO57s78A/company-logo_200_200/0?e=1603324800&v=beta&t=lxz_SFaNWGtfBK27ryml6bf4IKdjeqrdhuuJ5T6Vg8g" />
+          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQH3nUDO57s78A/company-logo_200_200/0/1531936161449?e=1625702400&v=beta&t=i6ScmrTge2IWh0cQSE2ydEXAAHNOV13A_6hGp8pDGC0" />
         </td>
         <td>
           <strong>Self-Employed</strong> | Software Developer | <i>Aug 1998 - Jul 2012</i> | Itajaí / Santa Catarina / Brazil<br />
