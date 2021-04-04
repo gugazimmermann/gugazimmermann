@@ -21,7 +21,7 @@
   <tbody>
     <tr>
       <td>
-        <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGzuSBRRRuphw/company-logo_100_100/0?e=1603324800&v=beta&t=1QNaDvPrOwY-6FkUYZZ9RDFgOxta7p_Q9zTA5Biq-TY" />
+        <img width="50px" height="50px" src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Developer_Associate_512x512.6d5f0ad35de66966c96f8e408e4fd919c1a2d753.png" />
       </td>
       <td>
         <a href="https://www.youracclaim.com/badges/1a433e6a-46b2-439e-9148-60d306c71020/linked_in_profile">
@@ -31,7 +31,7 @@
         Amazon Web Services | <i>Aug 2020 - Expires 2023</i>
       </td>
       <td>
-        <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGzuSBRRRuphw/company-logo_100_100/0?e=1603324800&v=beta&t=1QNaDvPrOwY-6FkUYZZ9RDFgOxta7p_Q9zTA5Biq-TY" />
+        <img width="50px" height="50px" src="https://d1.awsstatic.com/training-and-certification/Certification%20Badges/AWS-Certified_Cloud-Practitioner_512x512.bc006f14f986fa4f3ca238b0b62be458ce1fb5ce.png" />
       </td>
       <td>
         <a href="https://www.youracclaim.com/badges/5c848b45-36b5-45d8-9c8b-0b6920e45cdb?source=linked_in_profile">
