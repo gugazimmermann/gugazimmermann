@@ -128,7 +128,7 @@
     <tbody>
                   <tr>
         <td>
-          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHOIwBTq44GRA/company-logo_200_200/0/1519895799826?e=1625702400&v=beta&t=e4wLzQwai880VONDxhThvQeFE3TC9RAH_8hk4AXx0js"/>
+          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C560BAQH5yV7-7dZALw/company-logo_200_200/0/1575298613847?e=1625702400&v=beta&t=wtH3yWklZ4aC9b8NfmZ0tjxAjshbram8I0GNPnJ7DIM"/>
         </td>
         <td>
           <strong>Bad Gateway</strong> | Backend Developer | <i>Feb 2021 - Present</i> | Remote Work / Ontario, Canada<br />
@@ -146,7 +146,7 @@ Refactoring code, AWS Lambda (serverless), social media APIs, GCP, Google Sheets
       </tr>
             <tr>
         <td>
-          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQHOIwBTq44GRA/company-logo_200_200/0/1519895799826?e=1625702400&v=beta&t=e4wLzQwai880VONDxhThvQeFE3TC9RAH_8hk4AXx0js"/>
+          <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C560BAQFmIVys9HCo9w/company-logo_200_200/0/1614940877912?e=1625702400&v=beta&t=NzZI_Av5lqSOPKe0rskWYBQ00fIgVMYLB6iDwW2Y5aY"/>
         </td>
         <td>
           <strong>Cloud Devs</strong> | Full Stack Web Developer | <i>Aug 2020 - Oct 2020</i> | Remote Work / Amsterdam, Netherlands<br />
