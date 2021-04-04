@@ -113,7 +113,7 @@
                 LinkedIn Learning | <i>Aug 2019 - No Expires</i>
               </td>
     <td>
-        <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQG9_uP8f-kpiw/company-logo_200_200/0?e=1603324800&v=beta&t=52LpU2V1gxNuihfQDvyrnHmVpx7qmqo4HPYIdq4Jvc0" />
+        <img width="50px" height="50px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQG9IDubxFjrLw/company-logo_200_200/0/1519921995753?e=1625702400&v=beta&t=Bt6Ql48gfkhZxHkR2hxF5UhKs_GCAafGasgLPW-eDOA" />
       </td>
       <td>                    
         <strong>Scrum Fundamentals Certified (SFC)</strong>
